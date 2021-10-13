@@ -1,2 +1,2 @@
 # klazkin.github.io
-GIthubP ages simple page 
+Github Pages simple page 
