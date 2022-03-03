@@ -2,7 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aabe3cfe-4ae8-4aea-98a0-7702bf06049b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/space/assets/assets.txt" beforeDir="false" afterPath="$PROJECT_DIR$/space/assets/assets.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/space/WEB-INF/deploy/html/rpcPolicyManifest/manifest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/space/WEB-INF/deploy/html/symbolMaps/E2695E4FE4DD6D94C8B2D64D78D4EFD8.symbolMap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/space/assets/ship-5df7db9f1332f7702e9a95269442a7f3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/space/html/E2695E4FE4DD6D94C8B2D64D78D4EFD8.cache.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/space/html/clear.cache.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/space/html/compilation-mappings.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/space/html/gwt/chrome/chrome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/space/html/gwt/chrome/chrome_rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/space/html/gwt/chrome/images/corner.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/space/html/gwt/chrome/images/corner_ie6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/space/html/gwt/chrome/images/hborder.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/space/html/gwt/chrome/images/hborder_ie6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/space/html/gwt/chrome/images/ie6/corner_dialog_topleft.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/space/html/gwt/chrome/images/ie6/corner_dialog_topright.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/space/html/gwt/chrome/images/ie6/hborder_blue_shadow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/space/html/gwt/chrome/images/ie6/hborder_gray_shadow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/space/html/gwt/chrome/images/ie6/vborder_blue_shadow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/space/html/gwt/chrome/images/ie6/vborder_gray_shadow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/space/html/gwt/chrome/images/splitPanelThumb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/space/html/gwt/chrome/images/vborder.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/space/html/gwt/chrome/images/vborder_ie6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/space/html/html.devmode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/space/html/html.nocache.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/space/html/logo.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1646290928155</updated>
       <workItem from="1646290930218" duration="25000" />
+      <workItem from="1646291279315" duration="7000" />
     </task>
     <servers />
   </component>
