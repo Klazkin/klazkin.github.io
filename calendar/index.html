@@ -25,9 +25,9 @@
     </head>
     <body>
         <script type="module">
-            import init, * as bindings from "calendar/countdown-f93095e0dc9baa52.js";
+            import init, * as bindings from "/calendar/countdown-f93095e0dc9baa52.js";
             const wasm = await init({
-                module_or_path: "calendar/countdown-f93095e0dc9baa52_bg.wasm",
+                module_or_path: "/calendar/countdown-f93095e0dc9baa52_bg.wasm",
             });
 
             window.wasmBindings = bindings;
