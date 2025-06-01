@@ -5,18 +5,18 @@
         <title>Countdown</title>
         <link
             rel="stylesheet"
-            href="calendar/style-6c1fbb562cc4b711.css"
+            href="style-6c1fbb562cc4b711.css"
             integrity="sha384-NHyzs5SYxv7sMVLaJWGJI/A2ncJShrUlLDupK41piUyWpdc71x3Xho7WGfoTVZRA"
         />
         <link
             rel="modulepreload"
-            href="calendar/countdown-f93095e0dc9baa52.js"
+            href="countdown-f93095e0dc9baa52.js"
             crossorigin="anonymous"
             integrity="sha384-dfRNeYAwDpzPuHS2gToT3mgMbcz/p8o5EIK7IWKPKLws2Ja0X4sKmol5NWBAsEda"
         />
         <link
             rel="preload"
-            href="calendar/countdown-f93095e0dc9baa52_bg.wasm"
+            href="countdown-f93095e0dc9baa52_bg.wasm"
             crossorigin="anonymous"
             integrity="sha384-bWE3ZNwplDW5WO/Vw97QDzKGReKHEHgRxexswrALTeZF0mTvNKYlnYVkoAEBYNUW"
             as="fetch"
@@ -25,9 +25,9 @@
     </head>
     <body>
         <script type="module">
-            import init, * as bindings from "/countdown-f93095e0dc9baa52.js";
+            import init, * as bindings from "calendar/countdown-f93095e0dc9baa52.js";
             const wasm = await init({
-                module_or_path: "/countdown-f93095e0dc9baa52_bg.wasm",
+                module_or_path: "calendar/countdown-f93095e0dc9baa52_bg.wasm",
             });
 
             window.wasmBindings = bindings;
